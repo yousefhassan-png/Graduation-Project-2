@@ -1,0 +1,9 @@
+streamlit>=1.50
+pandas
+plotly
+seaborn
+matplotlib
+scipy
+scikit-learn
+arabic-reshaper
+python-bidi
